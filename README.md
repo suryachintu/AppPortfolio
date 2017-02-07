@@ -8,3 +8,4 @@ It shows the list of apps developed as a part of *Android Developer Nanodegree P
 * [Stock Hawk](https://github.com/suryachintu/StockHawk)
 * [Build It Bigger](https://github.com/suryachintu/BuildItBigger)
 * [XYZ Reader](https://github.com/suryachintu/xyzreader)
+* [Go Ubiquitous](https://github.com/suryachintu/SunshineWear)
